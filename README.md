@@ -1,4 +1,5 @@
 <!-- Hero / Intro -->
+![Profile Views](https://komarev.com/ghpvc/?username=data-viper&label=Profile%20views&color=0e75b6&style=flat)
 <div align="center">
 
 #  KOMAL SINGH  
@@ -24,7 +25,7 @@ Hey there 👋 thanks for stopping by my profile! I’m Komal, a data enthusiast
 ---
 ##  GitHub on Glance
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=data-viper&show_icons=true&theme=radical" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=data-viper&show_icons=true&theme=radical&hide_rank=true" height="165">
 </p>
 
 
