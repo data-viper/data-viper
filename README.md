@@ -1,7 +1,7 @@
 <!-- Hero / Intro -->
 <div align="center">
 
-#  Hi, I'm KOMAL SINGH  
+#  KOMAL SINGH  
 
  *Senior Data Analyst* | Aspiring *Data Scientist* | Builder of Data-Driven Projects  
 
