@@ -1,12 +1,12 @@
 <!-- Hero / Intro -->
 <div align="center">
 
-# 👋 Hi, I'm Komal Singh  
+#  Hi, I'm Komal Singh  
 
-💡 *Senior Data Analyst* | Aspiring *Data Scientist* | Builder of Data-Driven Projects  
+ *Senior Data Analyst* | Aspiring *Data Scientist* | Builder of Data-Driven Projects  
 
-🚀 Passionate about making data useful — from *SQL pipelines* to *ML models* to *dashboards*.  
-📊 Currently in healthcare analytics, exploring *real-time BI, **machine learning, and **trading strategies*.  
+Passionate about making data useful — from *SQL pipelines* to *ML models* to *dashboards*.  
+Currently in healthcare analytics, exploring *real-time BI, **machine learning, and **trading strategies*.  
 
 </div>
 
@@ -24,8 +24,7 @@
 
 ---
 
-## 📊 GitHub at a Glance
-<!-- Replace YOURUSERNAME below -->
+##  GitHub at a Glance
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical" height="165">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=radical" height="165">
@@ -33,7 +32,7 @@
 
 ---
 
-## 🌱 What I’m Exploring
+##  What I’m Exploring
 - Building *ML models* for predictive analytics (stocks, healthcare, housing).  
 - Improving *ETL/data pipelines* with dbt + Redshift.  
 - Creating interactive dashboards (Looker, Streamlit, Gradio).  
@@ -41,15 +40,15 @@
 
 ---
 
-## 📌 Quick Highlights
-- 📈 *5+ years with data* — analysis, visualization, insights, business strategy.  
-- 🏥 *Healthcare domain experience* — patient onboarding, risk stratification, cost optimization.  
-- 🔧 *Tools I use daily* — GitHub, Looker, dbt, SQL, Python, VS Code.  
-- 💡 *Side interests* — trading bots, real-time BI, and portfolio projects.  
+##  Quick Highlights
+-  *6+ years with data* — analysis, visualization, insights, business strategy.  
+-  *Healthcare domain experience* — patient onboarding, risk stratification, cost optimization.  
+-  *Tools I use daily* — GitHub, Looker, dbt, SQL, Python, VS Code.  
+-  *Side interests* — trading bots, real-time BI, and portfolio projects.  
 
 ---
 
-## 🌐 Let’s Connect
+##  Let’s Connect
 <p align="center">
   <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"></a>
   <a href="https://YOUR-PORTFOLIO-URL"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white&style=for-the-badge"></a>
@@ -58,4 +57,4 @@
 
 ---
 
-⭐️ From [Komal Singh](https://github.com/data-viper)
+ From [Komal Singh](https://github.com/data-viper)
