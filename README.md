@@ -26,7 +26,7 @@ Currently in healthcare analytics, exploring *real-time BI, **machine learning, 
 
 ##  GitHub at a Glance
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=data-viper&show_icons=true&include_all_commits=true&theme=radical" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=data-viper&show_icons=true&theme=radical" height="165">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=data-viper&layout=compact&theme=radical" height="165">
 </p>
 
