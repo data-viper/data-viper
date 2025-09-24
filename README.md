@@ -26,7 +26,7 @@ Hey there 👋 thanks for stopping by my profile! I’m Komal, a data enthusiast
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=data-viper&show_icons=true&theme=radical" height="165">
 </p>
----
+
 
 ##  Let’s Connect
 <p align="center">
