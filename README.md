@@ -1,18 +1,18 @@
 <!-- Hero / Intro -->
 <div align="center">
 
-#  Hi, I'm Komal Singh  
+#  Hi, I'm KOMAL SINGH  
 
  *Senior Data Analyst* | Aspiring *Data Scientist* | Builder of Data-Driven Projects  
 
 Passionate about making data useful — from *SQL pipelines* to *ML models* to *dashboards*.  
-Currently in healthcare analytics, exploring *real-time BI, **machine learning, and **trading strategies*.  
+Currently in healthcare analytics, exploring real-time BI, machine learning.  
 
 </div>
 
 ---
 
-## 🛠 Tech Toolbox
+## TECH STACK
 <!-- Use badges to highlight your stack -->
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white&style=for-the-badge)
