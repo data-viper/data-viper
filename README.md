@@ -28,10 +28,17 @@ Hey there 👋 thanks for stopping by my profile! I’m Komal, a data enthusiast
 </p>
 
 
-##  Let’s Connect
-<p align="center">
-  Email: singhkomal0906@gmail.com  
-</p>
+## 🤝 Let’s Connect  
 
+I’m always happy to chat about data, AI, or cool projects — feel free to reach out!  
+
+<p align="center">
+  <a href="mailto:singhkomal0906@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://linkedin.com/in/komalsingh001">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
+  </a>
+</p>
 ---
 
