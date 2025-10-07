@@ -6,7 +6,7 @@
 
  *Senior Data Analyst* | Aspiring *Data Scientist* | Builder of Data-Driven Projects  
 
-Hey there 👋 thanks for stopping by my profile! I’m Komal, a data enthusiast and Senior Data Analyst with 6+ years of experience across e-commerce, financial, and healthcare industries. Day to day, my work looks like defining the right metrics, building data models, running ad-hoc analyses, and creating dashboards that make data easy to understand. I also spend time on LookML development and monitoring to keep everything running smoothly, while shaping data pipelines with dbt and Redshift. Recently, I’ve been diving deeper into AI — from building predictive ML models to exploring how Generative AI can make analytics smarter and faster. Outside of work, I enjoy tinkering with trading bots, experimenting with real-time BI, and building side projects that keep me learning and growing.   
+Hey there 👋 thanks for stopping by my profile! I’m Komal, a data enthusiast and Senior Data Analyst with 6+ years of experience across e-commerce, financial, and healthcare industries. Day to day, my work looks like defining the right metrics, building data models, running ad-hoc analyses, and creating dashboards that make data easy to understand. Recently, I’ve been diving deeper into AI — from building predictive ML models to exploring how Generative AI can make analytics smarter and faster.   
 
 </div>
 
